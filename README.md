@@ -1,6 +1,6 @@
 # simple-canvas-react-gauge
 
-React component of a full or half-circle gauge with percent display and optional label. Uses canvas, supports animation and customization of display.
+React component of a full or half-circle gauge with percent display and optional label. Uses canvas, supports reactivity, animation and customization of display.
 
 ![halfgaugenolabel](https://user-images.githubusercontent.com/535134/43424502-8eef8cd6-9404-11e8-8130-36d1f8a1f176.png)
 
